@@ -11,6 +11,10 @@ import {schema} from './mockDataSchema';
 import fs from 'fs';
 import chalk from 'chalk';
 
+jsf.extend('faker', function() {
+  return require('faker');
+});
+
 const json = JSON.stringify(jsf(schema));
 
 fs.writeFile("./src/api/db.json", json, function (err) {
@@ -20,3 +24,7 @@ fs.writeFile("./src/api/db.json", json, function (err) {
     console.log(chalk.green("Mock data generated."));
   }
 });
+
+
+
+
