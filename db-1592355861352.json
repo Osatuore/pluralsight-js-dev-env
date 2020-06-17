@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 90278825,
+      "firstName": "Ardith",
+      "lastName": "Botsford",
+      "email": "Glenda55@hotmail.com"
+    },
+    {
+      "id": 6073404,
+      "firstName": "Josie",
+      "lastName": "Olson",
+      "email": "Mina21@yahoo.com"
+    },
+    {
+      "id": 90469638,
+      "firstName": "Sydnee",
+      "lastName": "Sauer",
+      "email": "Ayden.Gerlach@gmail.com"
+    },
+    {
+      "id": 8028442,
+      "firstName": "Gussie",
+      "lastName": "Mann",
+      "email": "Twila82@gmail.com"
+    },
+    {
+      "id": 58658479,
+      "firstName": "Rashad",
+      "lastName": "Shanahan",
+      "email": "Melisa_Robel92@yahoo.com"
+    }
+  ]
+}
